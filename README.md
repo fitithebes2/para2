@@ -317,3 +317,46 @@ if __name__ == "__main__":
     main()
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    def first_function(var_1, var_2, var_3=3) :
+
+    return var_1*0.5 + var_2/3 + var_3 ** 4.3
+function_res_1 = first_function( 1,2)
+print(function_res_1)
+
+
+
