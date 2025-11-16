@@ -360,3 +360,34 @@ print(function_res_1)
 
 
 
+
+from random import randint
+
+def coin_simulator():
+    coin = randint(0,1)
+    if coin == 0:
+        print("No")
+    else:
+        print("Yes")
+coin_simulator()
+
+
+
+
+
+
+
+var_1 = 5
+def func_1():
+    var_1 = 10
+    def second():
+        print(var_1)
+    second()
+
+func_1()
+print(var_1)
+
+
+
+
+
