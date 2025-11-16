@@ -1,4 +1,4 @@
-# dz 3
+# para 2
 import json
 import random
 import time
